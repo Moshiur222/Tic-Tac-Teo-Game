@@ -1,1 +1,1 @@
-# i have mnake tic tac teo game by using HTML CSS & JavaScrips
+# I have make tic-tac-teo game by using HTML, CSS & JavaScrips.
